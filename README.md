@@ -1,5 +1,7 @@
 # AppNotas
 
+Esta aplicación web es para registrar notas, si se quiere agregar nota deberá de registrarse y posteriormente iniciar sesión. Una vez que se haya iniciado sesión ya se podrá gregar notas, editar las notas agregadas y eliminarlas. Este aplicacion se desarrollo con las tecnologias de NodeJS, MongoD, Express y Mongoose.
+
 [![Captura-1.png](https://i.postimg.cc/Cxs5gHqJ/Captura-1.png)](https://postimg.cc/gxrmyh46)
 
 [![Captura-2.png](https://i.postimg.cc/J0CC0SwX/Captura-2.png)](https://postimg.cc/YGRsynC2)
